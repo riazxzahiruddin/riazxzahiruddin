@@ -1,0 +1,13 @@
+<DOCTYPE html>
+<html>
+<head>
+<title> Javascript program </title>
+<script type="text/javascript">
+let number= 100;
+let result=Math.log10(number);
+console.log(The log to the base 10 of ${number} is:{result})
+</head>
+<body>
+<h1> Logarithm to the base 10 </h1> 
+</body>
+</html>
